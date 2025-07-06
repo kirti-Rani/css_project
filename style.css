@@ -203,7 +203,6 @@ align-items: end;
     display:flex;
     justify-content:flex-start;
     align-items:center;
-    position: absolute;
     right: -0px;
     color: rgb(167, 213, 253);
     border: 2px solid rgb(128, 250, 6) ;padding:3px; margin:5px”;
